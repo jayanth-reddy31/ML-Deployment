@@ -1,0 +1,7 @@
+pip install fastapi
+pip install uvicorn
+pip install pickle5 (install if python version is 3.8 or below if version if higher then it is installed inbuilt)
+pip install pydantic
+pip install scikit-learn
+pip install requests
+pip install pypi-json
